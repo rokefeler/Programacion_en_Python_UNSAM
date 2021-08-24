@@ -8,6 +8,7 @@ salta 3/5 de la altura desde la que cayó.
 Escribí un programa rebotes.py que imprima una tabla mostrando las alturas que alcanza
 en cada uno de sus primeros diez rebotes.
 """
+#%%  Ejercicio
 altura = 100
 nrebotes=0
 while nrebotes<10:
